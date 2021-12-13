@@ -18,7 +18,7 @@ In the example we are using ES6, which might be not supported by some older brow
 1. Clone [TradingView Charting Library][library-url]. For access instructions, see [Getting Started](getting-started.md).
 
     ```bash
-    git clone https://github.com/tradingview/charting_library charting_library_clonned_data
+    git clone https://github.com/tradingview/charting_library charting_library_cloned_data
     ```
 
 ## Adding a container
